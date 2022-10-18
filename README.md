@@ -10,6 +10,6 @@ Resource: initial Hand recognition program
 https://google.github.io/mediapipe/solutions/hands.html
 
 10/13/22 file contains the hand recognition program, with a 3-2-1 countdown to a single play event, next steps include:
--Nancy is currently working on modifying the algorithm to replay an event
--Mark is currently working on adding a graphic component for the game
+  -Nancy is currently working on modifying the algorithm to replay an event
+  -Mark is currently working on adding a graphic component for the game
 
