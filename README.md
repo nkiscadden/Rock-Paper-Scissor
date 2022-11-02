@@ -13,3 +13,9 @@ https://google.github.io/mediapipe/solutions/hands.html
   -Nancy is currently working on modifying the algorithm to replay an event
   -Mark is currently working on adding a graphic component for the game
 
+11/02/22 file contains an update of a home screen with basic plays and instructions, when the user hovers over
+  the "End Game" button a final screen appears with a game tally for each player and who the overall winner
+  of the game is.
+  It needs a little refinement for the initial hover button, it occassionally glitches straight to the final
+  screen. 
+  -Next Steps: continue to work toward adding to the interface screens for tutorial, rules etc
