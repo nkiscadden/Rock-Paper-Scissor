@@ -19,3 +19,9 @@ https://google.github.io/mediapipe/solutions/hands.html
   It needs a little refinement for the initial hover button, it occassionally glitches straight to the final
   screen. 
   -Next Steps: continue to work toward adding to the interface screens for tutorial, rules etc
+
+11/03/22 new file addition with an upgrade of the overall interface, Mark improved the hovering issues from the previous iteration
+  moved buttons around and it is modeled similar to the lo-fi prototype
+  Need to add the rules page and tweak
+  
+  
