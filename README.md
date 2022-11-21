@@ -24,4 +24,7 @@ https://google.github.io/mediapipe/solutions/hands.html
   moved buttons around and it is modeled similar to the lo-fi prototype
   Need to add the rules page and tweak
   
+11/21/22 uploaded updated files labeled HCI-11-10 
+  -Update rules page is updated
+  -added images to the interface for human and computer game play, this replaces the orginal text in the game
   
