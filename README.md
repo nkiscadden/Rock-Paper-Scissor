@@ -25,6 +25,12 @@ https://google.github.io/mediapipe/solutions/hands.html
   Need to add the rules page and tweak
   
 11/21/22 uploaded updated files labeled HCI-11-10 
-  -Update rules page is updated
-  -added images to the interface for human and computer game play, this replaces the orginal text in the game
+  -Update rules page is updated, modified the text for readability, the screen color was changed to match the overall theme
+  -added images to the Play interface for human and computer game play, this replaces the orginal text in the game, the images flicker with a new color as the user decides which move they want to make
+
+12/1/22 uploaded final project labeled HCI-P5_Final_Rock_Paper_Scissor
+  -Updated the final score page when the user clicks exit, it includes the final score and declares an overall winner. We added the same color scheme to the screen to match the color scheme of the rules page and improved the font for readability
+  -Updated and cleaned up the documentation for clarity of each section
+  -the only unresolved issue was to terminate the program overall at exit. we believe it was the choice of API and the functionality with the camera
+  
   
