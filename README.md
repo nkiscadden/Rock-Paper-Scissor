@@ -28,10 +28,9 @@ https://google.github.io/mediapipe/solutions/hands.html
   -Update rules page is updated, modified the text for readability, the screen color was changed to match the overall theme
   -added images to the Play interface for human and computer game play, this replaces the orginal text in the game, the images flicker with a new color as the user decides which move they want to make
 
-12/1/22 uploaded final project labeled HCI-P5_Final_Rock_Paper_Scissor
- -Update since Milestone 3 
+12/1/22 -Update since Milestone 3 uploaded final project labeled HCI-P5_Final_Rock_Paper_Scissor
   -Updated the final score page when the user clicks exit, it includes the final score and declares an overall winner. We added the same color scheme to the screen to match the color scheme of the rules page and improved the font for readability
   -Updated and cleaned up the documentation for clarity of each section
-  -the only unresolved issue was to terminate the program overall at exit. we believe it was the choice of API and the functionality with the camera
+  -the only unresolved issue was to terminate the program overall at exit. we believe it was the choice of API and the functionality with the camera API that is making this task incomplete at this point in the semester.
   
   
